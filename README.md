@@ -1,1 +1,1 @@
-# css-foundations
+This is the odin project css foundations assignments.
