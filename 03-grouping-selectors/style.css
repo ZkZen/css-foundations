@@ -1,0 +1,13 @@
+.cm{
+    color: #ffff;
+    background-color: #000000;
+}
+
+.ncm{
+    background-color: #ffff00;
+}
+
+.cm, .ncm{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
